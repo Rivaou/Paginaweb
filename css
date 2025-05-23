@@ -1,0 +1,742 @@
+
+<!DOCTYPE html>
+
+
+
+
+<html lang=en>
+  <head>
+    
+    <!-- Ketch CPM -->
+    
+      <script>
+      (function(){const makeStub=()=>{const TCF_LOCATOR_NAME="__tcfapiLocator";const queue=[];const currentWindow=window;let frameLocator=currentWindow;let cmpFrame;function addFrame(){const doc=currentWindow.document;const otherCMP=!!(currentWindow.frames[TCF_LOCATOR_NAME]);if(!otherCMP){if(doc.body){const iframe=doc.createElement('iframe');iframe.style.cssText='display:none';iframe.name=TCF_LOCATOR_NAME;doc.body.appendChild(iframe);}else{setTimeout(addFrame,5);}}return!otherCMP;}function tcfAPIHandler(...args){if(!args.length){return queue;}else if(args[0]==='ping'){if(typeof args[2]==='function'){args[2]({cmpLoaded:false,cmpStatus:'stub'});}}else{queue.push(args);}}function postMessageEventHandler(event){const msgIsString=typeof event.data==='string';let json={};if(msgIsString){try{json=JSON.parse(event.data);}catch(ignore){}}else{json=event.data;}const payload=(typeof json==='object'&&json!==null)?json.__tcfapiCall:null;if(payload){window.__tcfapi(payload.command,payload.version,function(retValue,success){let returnMsg={__tcfapiReturn:{returnValue:retValue,success:success,callId:payload.callId,},};if(event&&event.source&&event.source.postMessage){event.source.postMessage((msgIsString)?JSON.stringify(returnMsg):returnMsg,'*');}},payload.parameter,);}}while(frameLocator){try{if(frameLocator.frames[TCF_LOCATOR_NAME]){cmpFrame=frameLocator;break;}}catch(ignore){}if(frameLocator===currentWindow.top){break;}frameLocator=frameLocator.parent;}if(!cmpFrame){addFrame();currentWindow.__tcfapi=tcfAPIHandler;currentWindow.addEventListener('message',postMessageEventHandler,false);}};makeStub();}());
+      </script>
+      <script>!function(){window.semaphore=window.semaphore||[],window.ketch=function(){window.semaphore.push(arguments)};var e=new URLSearchParams(document.location.search),o=e.has("property")?e.get("property"):"website_smart_tag",n=document.createElement("script");n.type="text/javascript",n.src="https://global.ketchcdn.com/web/v3/config/atombio/".concat(o,"/boot.js"),n.defer=n.async=!0,document.getElementsByTagName("head")[0].appendChild(n)}();</script>
+    
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="stylesheet" href="https://d209nv3nexrgbg.cloudfront.net/static/out/css/global.4020ecbf6bb1.css" />
+    <link rel="stylesheet" href="https://d209nv3nexrgbg.cloudfront.net/static/out/css/bootstrap.min.a83cc930918e.css" />
+    
+    <link rel="shortcut icon"
+          type="image/png"
+          href="https://d209nv3nexrgbg.cloudfront.net/static/images/favicon.259fbb895b64.svg" />
+    
+    <!-- Baidu meta code -->
+    <meta name="baidu-site-verification" content="code-Q4LtUVXH6l" />
+    
+    <meta name="juicyads-site-verification"
+          content="fc507a9904579f76de8fbbe409c5fb92">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="black" />
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="black" />
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-MP4FBH4");
+    </script>
+    <!-- End Google Tag Manager -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async
+            src="https://www.googletagmanager.com/gtag/js?id=AW-10798944050"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "AW-10798944050"); // Google ads
+      gtag("config", "G-HJ7DJY5W67");
+    </script>
+    
+  
+  
+
+    
+
+
+<link rel="canonical" href="https://www.atom.bio/60968135" />
+
+    
+    <meta name="robots" content="index, follow">
+
+
+    
+        <meta name="description"
+              content="See atom.bio webpage of Conteo de Ventas. Aqui puedes contactarno para que resuelvas tus dudas respecto a las ventas (@60968135)">
+    
+
+
+<meta property="og:url" content="https://atom.bio/60968135" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Explore all my links here" />
+<meta property="og:description" content="Powered by atom.bio" />
+<meta property="og:image" content="https://d209nv3nexrgbg.cloudfront.net/media/users_app/blob_WHEintn" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+
+
+<meta name="twitter:title" content="@60968135 | Atom.bio" />
+<meta name="twitter:site" content="atom__bio" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:image" content="https://d209nv3nexrgbg.cloudfront.net/media/users_app/blob_WHEintn" />
+<meta name="twitter:domain" content="atom.bio" />
+<meta name="twitter:card" content="summary_large_image" />
+
+
+    <script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "LocalBusiness",
+  "name": "60968135",
+  "url": "https://atom.bio/60968135",
+  "logo": "https://d209nv3nexrgbg.cloudfront.net/media/users_app/blob_WHEintn",
+  "image": "https://d209nv3nexrgbg.cloudfront.net/media/users_app/blob_WHEintn"
+}
+    </script>
+
+
+
+    
+    
+        <title>Conteo de Ventas (@60968135) · atom.bio website</title>
+    
+    <!-- Public css -->
+    <link rel="stylesheet" href="https://d209nv3nexrgbg.cloudfront.net/static/out/css/global.4020ecbf6bb1.css">
+    <link rel="stylesheet" href="https://d209nv3nexrgbg.cloudfront.net/static/out/css/index.daa6380bb9f0.css">
+    <link rel="stylesheet" href="https://d209nv3nexrgbg.cloudfront.net/static/out/css/profile_public.1ea556fe64de.css">
+    <link rel="stylesheet" href="https://d209nv3nexrgbg.cloudfront.net/static/out/css/motions.3909117c478d.css">
+    <link rel="stylesheet" href="https://d209nv3nexrgbg.cloudfront.net/static/out/css/richtext.4e53b29a39fa.css">
+    <link rel="stylesheet" href="https://d209nv3nexrgbg.cloudfront.net/static/out/css/quill.snow.12239774bb1f.css">
+    <!-- Preconnections -->
+    <link rel="preconnect" href="https://stats.g.doubleclick.net">
+    <link rel="preconnect" href="https://www.google.es">
+    <link rel="preconnect" href="https://partner.googleadservices.com">
+    <link rel="preconnect" href="https://www.google-analytics.com">
+    <link rel="preconnect" href="https://www.googleadservices.com">
+    <link rel="preconnect" href="https://googleads.g.doubleclick.net">
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com">
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&amp;display=swap" rel="stylesheet">
+    <script type="text/javascript">
+    window.web_components = window.web_components || {};
+    window.web_components.paths = {
+        'icons': "https://d209nv3nexrgbg.cloudfront.net/static/out/js/icons.0d6980fd1783.json",
+        'gifs': "https://d209nv3nexrgbg.cloudfront.net/static/out/js/gifs.cd60d18cbb8e.json",
+    };
+    </script>
+    
+        
+            <script>
+                window.LOGGEDIN_USER_URL = null;
+            </script>
+        
+    
+    
+    <script>
+        window.HAS_EXTERNAL_ADS_PROVIDER = false;
+    </script>
+    
+    
+
+    
+
+  <script>
+(() => {
+  class Staticfiles {
+    jsonMap = null;
+    DEVELOPMENT = false;
+    MAX_RETRIES = 3;
+    RETRY_DELAY = 500; // milisegundos
+
+    constructor() {
+      this.CLOUDFRONT_URL = this.hostname("");
+      if (this.CLOUDFRONT_URL.includes("localhost") || this.CLOUDFRONT_URL.includes("192.168.") || this.CLOUDFRONT_URL.includes("127.0.") || this.CLOUDFRONT_URL.includes("172.")) {
+        this.DEVELOPMENT = true;
+      }
+    }
+
+    async wait(ms) {
+      return new Promise((resolve) => setTimeout(resolve, ms));
+    }
+
+    async fetchWithRetry(url, retries = this.MAX_RETRIES) {
+      for (let i = 0; i < retries; i++) {
+        try {
+          const response = await fetch(url);
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          return await response.json();
+        } catch (error) {
+          console.warn(`Fetch attempt ${i + 1} failed: ${error.message}`);
+          if (i < retries - 1) await this.wait(this.RETRY_DELAY);
+        }
+      }
+      console.error(`Failed to fetch after ${retries} attempts.`);
+      return {}; // Fallback a un objeto vacío
+    }
+
+    async initialize() {
+      if (!this.DEVELOPMENT) {
+        this.jsonMap = await this.fetchWithRetry(`${this.CLOUDFRONT_URL}/static/staticfiles.json`);
+      } else {
+        // Mock some timeout for development
+        console.log("Development mode, calling initialize() and waiting 100ms in Staticfiles class");
+        await this.wait(100);
+        this.jsonMap = {};
+      }
+    }
+
+    hostname(value = "") {
+      if (value && value.includes("http")) return value;
+
+      window.CLOUDFRONT_URL = "https://d209nv3nexrgbg.cloudfront.net";
+
+      if (
+        window.location.host.includes("localhost") ||
+        window.location.hostname.startsWith("127.") ||
+        window.location.hostname.startsWith("192.168.") ||
+        window.location.hostname.startsWith("172.")
+      ) {
+        window.CLOUDFRONT_URL = window.location.origin;
+        return `${window.location.origin}${value}`;
+      } else if (window.location.hostname.includes("test.atom")) {
+        window.CLOUDFRONT_URL = "https://d2udpoebf3pk0y.cloudfront.net";
+      } else if (window.location.hostname.includes("atom")) {
+        window.CLOUDFRONT_URL = "https://d209nv3nexrgbg.cloudfront.net";
+      }
+
+      return value ? `${window.CLOUDFRONT_URL}/${value}` : window.CLOUDFRONT_URL;
+    }
+
+    get(src) {
+      // San src (delete starting slashes)
+      if (src.startsWith("/")) {
+        src = src.substring(1);
+      }
+      if (!this.jsonMap) {
+        console.error("jsonMap is not initialized. Call and await initialize() first.");
+        return `${this.CLOUDFRONT_URL}/static/${src}?hash=not-initialized`;
+      }
+      if (!src) {
+        throw new Error("src is required");
+      }
+
+      if (this.DEVELOPMENT) {
+        return `${window.location.origin}/static/${src}?hash=dev`;
+      }
+
+      if (!this.jsonMap.paths || !this.jsonMap.paths[src]) {
+        console.warn(`No mapping found for "${src}" in jsonMap, returning input.`);
+        return `${this.CLOUDFRONT_URL}/static/${src}?hash=no-paths`; // Devuelve el `src` original con cloudfront
+      }
+
+      return `${this.CLOUDFRONT_URL}/static/${this.jsonMap.paths[src]}?hash=${this.jsonMap.hash || "not-found"}`;
+    }
+  }
+
+  const staticfiles = new Staticfiles();
+  window.getstatic = (src) => staticfiles.get(src);
+  staticfiles.initialize().then(() => {
+    window.staticfiles = staticfiles;
+  });
+})();
+</script>
+</head>
+<body style="font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MP4FBH4"
+        height="0"
+        width="0"
+        style="display: none;
+               visibility: hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <!--  TOP NAVBAR -->
+  
+  <div id="root"></div>
+  <!-- HAMBURGUER MENU -->
+  <!-- ON PUBLIC PAGES -->
+  
+    
+    
+      <div id="menuToggle" class="publicnav">
+        <input type="checkbox" aria-label="open menu" />
+        <span></span>
+        <span></span>
+        <span></span>
+        <ul id="menu" style="background-color: white;">
+          <li>
+            <p class="menu-title">Create a page like this</p>
+            <a class="navbar-nav nav-item topbar"
+               href="/register/?utm=menu_bar&menu_origin=60968135">
+              <div class="sign-up">Create free page</div>
+            </a>
+          </li>
+          <li>
+            <p class="menu-title">Already have an account?</p>
+            <a class="navbar-nav nav-item topbar"
+               href="/login/?utm=menu_bar&menu_origin=60968135">
+              <div class="border-btn">Log in</div>
+            </a>
+          </li>
+          
+          <li>
+            <a href="#"
+               onclick="semaphore.push(['showPreferences',{tab: 'consentsTab', showOverviewTab: false}])">
+              <p class="menu-title" style="margin-bottom:0">Privacy Settings</p>
+            </a>
+          </li>
+          <!-- CHOOSE LANGUAGE -->
+          <li class="menu-title" style="font-size:16px; margin-top:0">
+
+
+<div class="navbar-nav nav-item topbar" id="language_toggle" onclick="toggle_visibility(event)">
+  <input type="hidden" name="csrfmiddlewaretoken" value="KXIkR4ACZKpeXeLIo2xIVyoyhD1BImnOW1NvgeDe41s1S2V768oUR1bmvQteSZSj">
+  <div
+    role="button"
+    aria-haspopup="true"
+    aria-expanded="false"
+    class="arrow-container"
+  >
+    
+    
+    
+    
+    English
+  </div>
+  <ul class="language-selector " style="margin-top: 0; text-align: left">
+    
+    
+    
+      
+      <li
+          class="langnavbar active"
+          onclick="store_lang('en');">
+          English
+      </li>
+      
+      <li
+          class="langnavbar "
+          onclick="store_lang('es');">
+          español
+      </li>
+      
+      <li
+          class="langnavbar "
+          onclick="store_lang('pt');">
+          Português
+      </li>
+      
+      <li
+          class="langnavbar "
+          onclick="store_lang('ca');">
+          català
+      </li>
+      
+    
+  </ul>
+</div>
+<script src="https://d209nv3nexrgbg.cloudfront.net/static/js/language.3a58f851276a.js"></script>
+</li>
+          <a style="display: block;
+                    text-align: center;
+                    margin-top:2rem"
+             href="/">
+            <img class="menu-image"
+                 src="https://d209nv3nexrgbg.cloudfront.net/static/images/logo/a-linear-square.e8294ac8cac9.png"
+                 alt="atombio_logo">
+          </a>
+        </ul>
+      </div>
+    
+    <!-- IF WE ARE NOT ON PUBLIC PAGES -->
+  
+  <div class="base_parent_div">
+    
+    
+    <script>
+        user_has_ads = false;
+        custom_domain = false;
+        useraccount_user_url = false;
+        user_account__a_b_testing = 'A';
+    </script>
+    
+     
+    <div class="background_div">
+        <div class="layer"></div>
+    </div>
+    
+    
+        
+            <script>var custom_ad = {'img': {'src': 'https://d209nv3nexrgbg.cloudfront.net/static/images/affiliate/en/EN_ab_gradient_360x667.png', 'width': 360, 'height': 667}, 'href': 'https://www.atom.bio/en/?utm_source=/60968135&utm_campaign=vignette_ads&utm_visitor_lang=en&utm_user_owner_account_id=731286&utm_ad_lang=en&utm=gh_vg&utm_ad_name=EN_ab_gradient_360x667_png'};</script>
+            
+            <div id="custom-ad-A" class="custom-add">
+                <div class="custom-add__header">
+                    <span class="custom-add__header__meassge">❤️ ATOM.BIO</span>
+                    <div class="custom-add__header_close-button">
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                             width="32"
+                             height="32"
+                             viewBox="0 0 24 24">
+                            <path style="fill:#f5f5f5" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z">
+                            </path>
+                            <path fill="none" d="M0 0h24v24H0V0z"></path>
+                        </svg>
+                    </div>
+                </div>
+                <div class="custom-add__body">
+                    <div class="custom-add__body__container">
+                        <div class="ad-content-below-img">
+                            <div class="ad-avatar-div">
+                                <img class="ad-avatar" src="https://d209nv3nexrgbg.cloudfront.net/static/images/avatar/1.32805f351061.png">
+                                <img class="ad-avatar" src="https://d209nv3nexrgbg.cloudfront.net/static/images/avatar/2.2e0b3854ead5.png">
+                                <img class="ad-avatar" src="https://d209nv3nexrgbg.cloudfront.net/static/images/avatar/3.4a023a6cc58e.png">
+                                <img class="ad-avatar" src="https://d209nv3nexrgbg.cloudfront.net/static/images/avatar/4.40328d5ab057.png">
+                                <img class="ad-avatar" src="https://d209nv3nexrgbg.cloudfront.net/static/images/avatar/5.8d1af76082c6.png">
+                            </div>
+                            
+                                <p class="font-weight:bold">Join <span style="text-transform: capitalize;">Conteo de Ventas</span> and +500.000 users sharing all their links on a single page</p>
+                            
+                            <a id="cta-create-free-site-vignette-ads" href="/register/?utm=gh_vg&utm_check=error_url_not_overriden_by_js">
+                                <button class="ad-btn ad-btn-register">Create FREE site in 2 minutes</button>
+                            </a>
+                            <a class="custom-add__header_close-button">
+                                <button class="ad-btn ad-btn-cancel">Continue</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="custom-ad-B" class="custom-add">
+                <div class="custom-add__header-b">
+                    <span class="custom-add__header__meassge-b">Ad</span>
+                    <div class="custom-add__header_close-button-b">
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                             width="32"
+                             height="32"
+                             viewBox="0 0 24 24">
+                            <path style="fill:#f5f5f5" d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z">
+                            </path>
+                            <path fill="none" d="M0 0h24v24H0V0z"></path>
+                        </svg>
+                    </div>
+                </div>
+                <div class="custom-add__body-b">
+                    <div class="custom-add__body__container-b">
+                        
+                        <a href="https://www.atom.bio/en/?utm_source=/60968135&amp;utm_campaign=vignette_ads&amp;utm_visitor_lang=en&amp;utm_user_owner_account_id=731286&amp;utm_ad_lang=en&amp;utm=gh_vg&amp;utm_ad_name=EN_ab_gradient_360x667_png" target="_top" id="1943128">
+                            <img style="border-radius:2rem;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px" src="https://d209nv3nexrgbg.cloudfront.net/static/images/affiliate/en/EN_ab_gradient_360x667.png"
+                                 border="0"
+                                 alt=""
+                                 width="360"
+                                 height="667" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        
+    
+    
+    <!-- Allow visitors to download QR -->
+    <div id="download-qr-public">
+        <public-qr-code>
+        <a href="#"
+           id="qr_code_button_download"
+           class="flex-row ga4-track ga4-track-user-analytics qrdownloadbtn"
+           data-ga4-type="qr_code_button_download"
+           data-ga4-location="public-top-btn"
+           data-ga4-user-url="60968135"
+           data-ga4-user-account-id="731286"
+           data-ga4-ab-element-id="qrcode"
+           data-ga4-sub-type="qrcode"
+           data-ga4-text-content="null"
+           data-ga4-link-url="60968135"
+        >
+            <img class="btn-public-img"
+                 src="https://d209nv3nexrgbg.cloudfront.net/static/images/icons/qr-code-simple.ccc4d6eea0c3.svg"
+                 alt="atombioqr">
+        </a>
+        </public-qr-code>
+    </div>
+    <!-- Chat floating btn -->
+    <div id="floating-chat-public">
+        <a href="#"
+           id="floating-btn-public"
+           class="flex-row ga4-track ga4-track-user-analytics floatingbtn"
+           data-ga4-type="floating-btn-public"
+           data-ga4-location="public"
+           data-ga4-user-url="60968135"
+           data-ga4-user-account-id="731286"
+           data-ga4-ab-element-id="fab"
+           data-ga4-sub-type="fab"
+           data-ga4-text-content="null"
+        >
+            <img id="floating-btn-img"
+                 src="https://d209nv3nexrgbg.cloudfront.net/static/images/icons/whatsapp.a664916d2d43.svg"
+                 alt="chat">
+        </a>
+    </div>
+    <div class="atomdiv" id="containerprofile" style="padding-bottom: 4rem;">
+        <header class="banner">
+            <div class="top_background_container">
+                <div class="top_background" style="display:none"></div>
+            </div>
+            <!-- Atom heading style -->
+            <div id="heading_circular"
+                 class="publicheading center"
+                 style="display: none;
+                        width: 100%">
+                <div class="heading_circular center"
+                     style="text-align: center; margin-bottom: 1rem; margin-top:6rem">
+                    <div class="name">
+                        <h1 class="publictext name_circular animate-name-bio_animation headertext"
+                            style="margin-bottom: 0rem"
+                            id="name_circular"></h1>
+                    </div>
+                    <div class="bio" style="margin-bottom: 0;">
+                        <p style="margin-bottom: 0"
+                           class="publictext atomdescriptionpublic animate-name-bio_animation headertext"
+                           id="bio_circular"></p>
+                    </div>
+                </div>
+                <div class="containerboonds center">
+                    <div class="circular--landscape img_circular appear_circular_animation">
+                        <img class="publicpic defaultpic" src="">
+                    </div>
+                </div>
+            </div>
+            <!-- Professional heading style -->
+            <div id="heading_professional"
+                 class="publicheading publicdivinfo center col-12"
+                 style="display: none;
+                        text-align: left;
+                        margin-top:4rem;
+                        width: 100%;
+                        grid-template-columns: 0.1fr 1fr;
+                        gap: 1rem;
+                        padding-bottom: 0">
+                <div class=" appear_animation img_professional">
+                    <img class="publicpic defaultpic" src="">
+                </div>
+                <div class="div_professional">
+                    <div class="name">
+                        <h1 class="publictext name_circular animate-name-bio_animation headertext"
+                            style="text-align:left"
+                            id="name_professional"></h1>
+                    </div>
+                    <div class="bio" style="margin-bottom: 0;">
+                        <p style="margin-bottom: 0"
+                           id="bio_professional"
+                           class="publictext animate-name-bio_animation headertext"></p>
+                    </div>
+                    <div class="professional-icons"></div>
+                </div>
+            </div>
+            <!-- Basic heading style -->
+            <div id="heading_basic"
+                 class="publicheading center"
+                 style="display: none;
+                        text-align: center;
+                        width: 100%;
+                        margin-top: 1rem">
+                <div class="center">
+                    <div class="appear_animation img_basic">
+                        <img class="publicpic defaultpic" src="">
+                    </div>
+                    <div class="heading_circular center" style="width: 100%;">
+                        <div class="name">
+                            <h1 class="publictext name_circular animate-name-bio_animation headertext"
+                                id="name_basic"></h1>
+                        </div>
+                        <div class="bio" style="margin-bottom: 0;">
+                            <p class="publictext atomdescriptionpublic animate-name-bio_animation headertext"
+                               id="bio_basic"></p>
+                        </div>
+                    </div>
+                    <div class="basiclogos" style="display: none;"></div>
+                </div>
+            </div>
+        </header>
+        <div id="blurrybkg"></div>
+        
+        <div class="publicdivinfo center col-12"
+             id="divBoondInfo"
+             style="display:none">
+            <div id="divBoondLinkImgAll0"
+                 class="divBoondLinkImgAll center col-12"
+                 style="display: none">
+                <div id="divBoondLinkImg0" class="divBoondLinkImg slider"></div>
+                <div class="arrows-container">
+                    <!-- <table class="arrowsimages col-12 publictext">
+                    <tr>
+                        <th id="images_prev0" class="prev publictext"> <svg xmlns="http://www.w3.org/2000/svg" width="1.25rem" height="1.25rem" fill="currentColor" viewBox="0 0 492 492" style="enable-background:new 0 0 492 492;" xml:space="preserve">
+                                <path d="M198.608,246.104L382.664,62.04c5.068-5.056,7.856-11.816,7.856-19.024c0-7.212-2.788-13.968-7.856-19.032l-16.128-16.12 C361.476,2.792,354.712,0,347.504,0s-13.964,2.792-19.028,7.864L109.328,227.008c-5.084,5.08-7.868,11.868-7.848,19.084 c-0.02,7.248,2.76,14.028,7.848,19.112l218.944,218.932c5.064,5.072,11.82,7.864,19.032,7.864c7.208,0,13.964-2.792,19.032-7.864 l16.124-16.12c10.492-10.492,10.492-27.572,0-38.06L198.608,246.104z" />
+                            </svg>
+                        </th>
+                        <th id="images_next0" class="next publictext"><svg xmlns="http://www.w3.org/2000/svg" width="1.25rem" height="1.25rem" fill="currentColor" viewBox="0 0 492.004 492.004" style="enable-background:new 0 0 492.004 492.004;" xml:space="preserve">
+                                <path d="M382.678,226.804L163.73,7.86C158.666,2.792,151.906,0,144.698,0s-13.968,2.792-19.032,7.86l-16.124,16.12 c-10.492,10.504-10.492,27.576,0,38.064L293.398,245.9l-184.06,184.06c-5.064,5.068-7.86,11.824-7.86,19.028 c0,7.212,2.796,13.968,7.86,19.04l16.124,16.116c5.068,5.068,11.824,7.86,19.032,7.86s13.968-2.792,19.032-7.86L382.678,265 c5.076-5.084,7.864-11.872,7.848-19.088C390.542,238.668,387.754,231.884,382.678,226.804z" />
+                            </svg>
+                        </th>
+                    </tr>
+                </table> -->
+                </div>
+            </div>
+        </div>
+        
+        <div class="publicdivinfo center col-12"
+             id="divnewsletter"
+             style="display:none">
+            <form action="/lead/"
+                  method="post"
+                  accept-charset="utf-8"
+                  id="emailform"
+                  class="publictext"
+                  style="display: none">
+                <div id="news-email-div"
+                     class="form .form-inline boonddescription publicgoal load-animation"
+                     style="text-align: center">
+                    <p class="newsletterform" id="newsletter-email-p"></p>
+                    <input class="inputnewsletter"
+                           type="text"
+                           name="email"
+                           placeholder='Write your email'
+                           value=""
+                           id="subscribe-email-field"
+                           autofocus>
+                    <input name="url_origin" type="hidden" value="/60968135">
+                    <input type="hidden" name="csrfmiddlewaretoken" value="KXIkR4ACZKpeXeLIo2xIVyoyhD1BImnOW1NvgeDe41s1S2V768oUR1bmvQteSZSj">
+                    <button class="btn center publicbtn" style="margin-top:0rem;" type="submit">Submit</button>
+                    
+                    
+                </div>
+            </form>
+            <form action="/lead/"
+                  method="post"
+                  accept-charset="utf-8"
+                  id="phoneform"
+                  class="publictext"
+                  style="display: none">
+                <div id="news-phone-div"
+                     class="form .form-inline boonddescription publicgoal load-animation"
+                     style="text-align: center">
+                    <p class="newsletterform" id="newsletter-phone-p"></p>
+                    <input class="inputnewsletter"
+                           type="text"
+                           name="phone"
+                           placeholder='Write your phone number'
+                           id="subscribe-phone-field"
+                           autofocus>
+                    <input name="url_origin" type="hidden" value="/60968135">
+                    <input type="hidden" name="csrfmiddlewaretoken" value="KXIkR4ACZKpeXeLIo2xIVyoyhD1BImnOW1NvgeDe41s1S2V768oUR1bmvQteSZSj">
+                    <button class="btn center publicbtn" style="margin-top: 0rem;" type="submit">Submit</button>
+                    
+                    
+                </div>
+            </form>
+        </div>
+        <div class="publicdivinfo center col-12"
+             id="AmnestyInternational"
+             style="display: none">
+            <div class="ngo boondlinkimg boonddescription load-animation">
+                <a href="https://www.es.amnesty.org/?utm_source=atombio&utm_medium=referral&utm_campaign=app-atombio">
+                    <img src="https://d209nv3nexrgbg.cloudfront.net/static/images/ngo/test2.aea9176924f6.png"
+                         loading="lazy"
+                         class="imginside"
+                         style="height: 90%;
+                                width:90%;
+                                border-radius: 0.5rem;
+                                overflow: hidden">
+                </a>
+                <h6 style="font-size:0.9rem;
+                           padding: 0.25rem 0;
+                           color:black"
+                    class="boondlinkimgtext">¡Actúa por los derechos humanos!</h6>
+            </div>
+        </div>
+        <div class="atompromotions" style="display: none;"></div>
+        
+            <div class="backgroundCreateYourPage" style="display: none;">
+                <div class="divCreateYourPage" style="display: flex;">
+                    <button type="button" height="100%" class="btnCreateYourPage">
+                        <a href="/register/?utm=gh&origin=60968135" data-google-interstitial="false" id="create_page_banner">
+                            <div style="display: flex;">
+                                <div style="display: flex; align-items: center; gap: 0.5rem">
+                                    <img width="20"
+                                         height="20"
+                                         src="https://d209nv3nexrgbg.cloudfront.net/static/images/logo/a-linear-white.71e00d5b55b6.svg"
+                                         style="height: 20px;
+                                                width: auto;
+                                                margin-right:0.25rem;
+                                                display: inline-block"
+                                         alt="atom.bio small white logo">
+                                    <p class="textCreateYourPage">CREATE YOUR FREE SITE</p>
+                                </div>
+                            </div>
+                        </a>
+                    </button>
+                    <button class="closeCreateYourPagediv"
+                            aria-label="Close button for creating your page">
+                        <svg width="12px"
+                             height="12px"
+                             viewBox="0 0 10 10"
+                             color="#350048"
+                             enable-background="new 0 0 24 24"
+                             class="closeCreateYourPage">
+                            <path d="M0.64063 8.19141C0.341802 8.49023 0.330083 9.0293 0.64649 9.3457C0.962896 9.66211 1.50196 9.65039 1.80079 9.35742L4.98829 6.16992L8.16993 9.35156C8.48047 9.66211 9.00782 9.66211 9.32422 9.33984C9.63477 9.02344 9.64063 8.49609 9.33008 8.19141L6.14844 5.00977L9.33008 1.82227C9.64063 1.51758 9.64063 0.984375 9.32422 0.673828C9.00782 0.357422 8.48047 0.357422 8.16993 0.662109L4.98829 3.84375L1.80079 0.65625C1.50196 0.363281 0.962896 0.351562 0.64649 0.667969C0.335943 0.984375 0.341802 1.52344 0.64063 1.82227L3.82813 5.00977L0.64063 8.19141Z">
+                            </path>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        
+    </div>
+    
+    
+    
+
+  </div>
+  <script src="/jsi18n/"></script>
+  
+  
+    <!-- GOOGLE MAPS API_KEY DEFINITION -->
+    <script>window.GOOGLEMAPS_API_KEY = "AIzaSyDxzM_Y5N_aK5UjvU6LCS2gXKMDTWlq8Gs";</script>
+    <!-- SENTRY ERROR, MONITOR AND REPLAY -->
+    <script src="https://d209nv3nexrgbg.cloudfront.net/static/out/main_public.db34366f21db.js" defer type="module"></script>
+
+</body>
+<script>
+        const userLang = 'en';
+        const currentUrl = '60968135';
+        const aaa = '';
+        let userAccount;
+        let userId;
+        let userUrl;
+        let userName;
+        
+          userUrl = false;
+          userId = '';
+          userName = '';
+        
+        if (userUrl && window.location.pathname === '/') {
+          if (lastActiveUserUrl === 'None') {
+            lastActiveUserUrl = null;
+          }
+          document.location.href = `/${lastActiveUserUrl || userUrl}/edit/`;
+        }
+</script>
+</html>
